@@ -33,7 +33,15 @@
         "image_url":"https://cdn.pixabay.com/photo/2015/10/21/08/22/media-998990_960_720.jpg",
         "detail":"Flutter สร้างโดย Google บริษัทเทคโนโลยีอันดับต้น ๆ ของโลก ที่มาพร้อมกับความสวยงาม สามารถเขียนครั้งเดียวด้วยภาษา Dart ที่ถูกออกแบบมาให้เขียนง่าย เข้าใจได้ไม่ยาก เขียนแค่ครั้งเดียว ส่งไปใช้ได้ทุกแพลตฟอร์ม ไม่ว่าจะเป็น Android, iOS, Web Application, Windows, Linux, MacOS"
 
+    },
+    {
+        "title":"Dart คือ ?",
+        "subtitle":"Tools สำหรับออกแบบ UI ของ Google",
+        "image_url":"https://cdn.pixabay.com/photo/2015/10/21/08/22/media-998990_960_720.jpg",
+        "detail":"Flutter สร้างโดย Google บริษัทเทคโนโลยีอันดับต้น ๆ ของโลก ที่มาพร้อมกับความสวยงาม สามารถเขียนครั้งเดียวด้วยภาษา Dart ที่ถูกออกแบบมาให้เขียนง่าย เข้าใจได้ไม่ยาก เขียนแค่ครั้งเดียว ส่งไปใช้ได้ทุกแพลตฟอร์ม ไม่ว่าจะเป็น Android, iOS, Web Application, Windows, Linux, MacOS"
+
     }
+    
 
 ]
 
